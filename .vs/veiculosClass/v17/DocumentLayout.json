@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\2023202060035\\Documents\\POO\\veiculosClass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{6D28DD2D-3862-437A-B5B1-D5D5FD0A5516}|veiculosClass.csproj|c:\\users\\2023202060035\\documents\\poo\\veiculosclass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D28DD2D-3862-437A-B5B1-D5D5FD0A5516}|veiculosClass.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D28DD2D-3862-437A-B5B1-D5D5FD0A5516}|veiculosClass.csproj|c:\\users\\2023202060035\\documents\\poo\\veiculosclass\\veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D28DD2D-3862-437A-B5B1-D5D5FD0A5516}|veiculosClass.csproj|solutionrelative:veiculo.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{6D28DD2D-3862-437A-B5B1-D5D5FD0A5516}|veiculosClass.csproj|c:\\users\\2023202060035\\documents\\poo\\veiculosclass\\veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{6D28DD2D-3862-437A-B5B1-D5D5FD0A5516}|veiculosClass.csproj|solutionrelative:veiculodao.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "VeiculoDAO.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\veiculosClass\\VeiculoDAO.cs",
+              "RelativeDocumentMoniker": "VeiculoDAO.cs",
+              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\veiculosClass\\VeiculoDAO.cs",
+              "RelativeToolTip": "VeiculoDAO.cs",
+              "ViewState": "AgIAAAIAAAAAAAAAAAAQwBQAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:40:43.712Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "veiculo.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\veiculosClass\\veiculo.cs",
+              "RelativeDocumentMoniker": "veiculo.cs",
+              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\veiculosClass\\veiculo.cs",
+              "RelativeToolTip": "veiculo.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAZAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:18:17.442Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\2023202060035\\Documents\\POO\\veiculosClass\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "C:\\Users\\2023202060035\\Documents\\POO\\veiculosClass\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAA4AAAAuAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-30T23:17:26.256Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

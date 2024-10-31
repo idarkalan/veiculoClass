@@ -1,0 +1,14 @@
+C:\Users\2023202060035\Documents\POO\veiculosClass\bin\Debug\net8.0\veiculosClass.exe
+C:\Users\2023202060035\Documents\POO\veiculosClass\bin\Debug\net8.0\veiculosClass.deps.json
+C:\Users\2023202060035\Documents\POO\veiculosClass\bin\Debug\net8.0\veiculosClass.runtimeconfig.json
+C:\Users\2023202060035\Documents\POO\veiculosClass\bin\Debug\net8.0\veiculosClass.dll
+C:\Users\2023202060035\Documents\POO\veiculosClass\bin\Debug\net8.0\veiculosClass.pdb
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.AssemblyInfoInputs.cache
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.AssemblyInfo.cs
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.csproj.CoreCompileInputs.cache
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.dll
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\refint\veiculosClass.dll
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.pdb
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.genruntimeconfig.cache
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\ref\veiculosClass.dll
