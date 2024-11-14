@@ -12,3 +12,4 @@ C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\refint\veicu
 C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.pdb
 C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.genruntimeconfig.cache
 C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\ref\veiculosClass.dll
+C:\Users\2023202060035\Documents\POO\veiculosClass\obj\Debug\net8.0\veiculosClass.sourcelink.json
